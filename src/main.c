@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-int main () {
+void doPrint() {
 	printf("Hello World\n");
+}
+
+int main () {
+	doPrint();
 	return 0;
 }
