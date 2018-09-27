@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main () {
-	//TODO: print hello world smartly
+	printf("Hello World\n");
 	return 0;
 }
